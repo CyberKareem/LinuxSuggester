@@ -1,2 +1,2 @@
 # LinuxSuggester
-local vulnerability scanner
+Local Vulnerability Scanner
