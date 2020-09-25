@@ -1,2 +1,2 @@
 # LinuxSuggester
-Local Vulnerability Scanner
+Local Vulnerability Scanner Python Script
