@@ -1,13 +1,4 @@
-#!/bin/bash
 
-#
-# Copyright (c) 2016-2020, @_mzet_
-#
-# linux-exploit-suggester.sh comes with ABSOLUTELY NO WARRANTY.
-# This is free software, and you are welcome to redistribute it
-# under the terms of the GNU General Public License. See LICENSE
-# file for usage of this software.
-#
 
 VERSION=v1.1
 
