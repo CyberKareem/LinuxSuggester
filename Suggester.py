@@ -57,7 +57,7 @@ declare -a EXPLOITS_USERSPACE
 declare -a exploits_to_sort
 declare -a SORTED_EXPLOITS
 
-############ LINUX KERNELSPACE EXPLOITS ####################
+############ LINUX KERNELSPACE EXPLOITS ###################
 n=0
 
 EXPLOITS[((n++))]=$(cat <<EOF
