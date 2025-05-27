@@ -2,7 +2,7 @@
 
 VERSION=v1.1
 
-# bash colors
+# bash colors.
 #txtred="\e[0;31m"
 txtred="\e[91;1m"
 txtgrn="\e[1;32m"
