@@ -2,7 +2,7 @@
 
 VERSION=v1.1
 
-# bash colors.
+# bash colors
 #txtred="\e[0;31m"
 txtred="\e[91;1m"
 txtgrn="\e[1;32m"
@@ -15,10 +15,10 @@ bldblu='\e[1;34m'
 yellow='\e[1;93m'
 lightyellow='\e[0;93m'
 
-# input data.
+# input data
 UNAME_A=""
 
-# parsed data for current OS.
+# parsed data for current OS
 KERNEL=""
 OS=""
 DISTRO=""
