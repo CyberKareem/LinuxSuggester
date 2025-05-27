@@ -15,7 +15,7 @@ bldblu='\e[1;34m'
 yellow='\e[1;93m'
 lightyellow='\e[0;93m'
 
-# input data
+# input data.
 UNAME_A=""
 
 # parsed data for current OS.
