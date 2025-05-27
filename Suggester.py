@@ -18,7 +18,7 @@ lightyellow='\e[0;93m'
 # input data
 UNAME_A=""
 
-# parsed data for current OS
+# parsed data for current OS.
 KERNEL=""
 OS=""
 DISTRO=""
